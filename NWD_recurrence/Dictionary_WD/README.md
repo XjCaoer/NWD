@@ -27,3 +27,5 @@ python word_discovery.py
 
 ## 交流
 QQ交流群：67729435，微信群请加机器人微信号spaces_ac_cn
+
+## 以上代码fork自苏神：苏剑林. (Sep. 09, 2019). 《重新写了之前的新词发现算法：更快更好的新词发现 》[Blog post]. Retrieved from https://kexue.fm/archives/6920 
